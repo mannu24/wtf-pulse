@@ -1,0 +1,29 @@
+# Dependencies
+**/node_modules/
+
+# Environment
+.env
+**/.env
+
+# Build output
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+.kiro/
+*.swp
+*.swo
+.DS_Store
+
+# Docker
+pgdata/
+
+# Coverage
+coverage/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
